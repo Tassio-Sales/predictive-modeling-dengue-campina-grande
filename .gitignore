@@ -1,0 +1,29 @@
+# Datasets (do not version)
+data/
+*.dbf
+*.xlsx
+*.csv
+
+# Python environments
+.venv/
+env/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Development tools
+.mypy_cache/
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
