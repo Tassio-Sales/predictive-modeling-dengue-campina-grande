@@ -1,9 +1,3 @@
-# Datasets (do not version)
-data/
-*.dbf
-*.xlsx
-*.csv
-
 # Python environments
 .venv/
 env/
