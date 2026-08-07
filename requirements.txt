@@ -6,3 +6,7 @@ scikit-learn
 jupyter
 openpyxl
 dbfread
+xgboost
+catboost
+rtdl-revisiting-models
+torch
