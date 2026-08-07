@@ -68,5 +68,11 @@ Main requirements include:
 - seaborn
 - scikit-learn
 - jupyter
+- openpyxl
+- dbfread
+- xgboost
+- catboost
+- rtdl-revisiting-models
+- torch
 
 It is recommended to run the pipeline inside a virtual environment (e.g., `venv` or `conda`) to ensure dependency isolation and reproducibility.
